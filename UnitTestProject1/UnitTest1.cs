@@ -1,6 +1,4 @@
 ﻿using ConsoleApp1;
-using Microsoft.AppCenter;
-using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Analytics.Fakes;
 using Microsoft.QualityTools.Testing.Fakes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
